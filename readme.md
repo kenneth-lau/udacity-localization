@@ -1,6 +1,6 @@
 # Notes from "Localization Essentials"
 
-Course website: https://classroom.udacity.com/courses/ud610
+Course website: [https://classroom.udacity.com/courses/ud610](https://classroom.udacity.com/courses/ud610)
 
 ## Lesson 1: Key concepts
 
@@ -132,10 +132,10 @@ Course website: https://classroom.udacity.com/courses/ud610
                 - every piece of text should be accompanied by a message description
                 - dates, currencies, units, phone numbers
                     - use tools such as internationalization libraries to automate
-                    - https://developers.google.com/international/
+                    - [https://developers.google.com/international/](https://developers.google.com/international/)
                 - plurals and genders
                     - use international components for unicode to automate
-                    - http://site.icu-project.org/
+                    - [http://site.icu-project.org/](http://site.icu-project.org/)
             - 2. Testing
                 - pseudolocalization
                 - problems
@@ -201,7 +201,7 @@ Course website: https://classroom.udacity.com/courses/ud610
         - Post-editing: when translators or reviewers edit machine translations
         - Predictive machine translation
     - Google Translator Toolkit (GTT): Free CAT tool
-        - Website: https://translate.google.com/toolkit
+        - Website: [https://translate.google.com/toolkit](https://translate.google.com/toolkit)
     - Subtitling platforms
         - .srt files
         - can add subtitles on YouTube in the "Creator Studio" in "Video Manager"

@@ -1,0 +1,1098 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+<header creationtool="TMM" creationtoolversion="1.0" segtype="" o-tmf="" adminlang="" srclang="*all*" datatype=""/>
+<body>
+<tu tuid="T:en:tr:false:16234797243238577351:15160623239320584104:tr:7176022279828497858:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>More</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Daha fazla</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>More</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940072456000">
+       <translation_content>Daha fazla</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAASCgZQaG90b3MSCFNob3BwaW5n</context>
+ </entry_metadata>
+ <translation_content_hash>4a3edd6cf509f22f0fce620d9650b7ae</translation_content_hash>
+ <entry_metadata_hash>10b5d8aec84afbf91cf47419c3e135a1</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:15264971474186371922:2946408431219726574:tr:8674371733205108489:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>How can we improve it?</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Bu makaleyi nasıl geliştirebiliriz?</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>How can we improve it?</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940393930000">
+       <translation_content>Bu makaleyi nasıl geliştirebiliriz?</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAA3ChlXYXMgdGhpcyBhcnRpY2xlIGhlbHBmdWw/EhpHZXR0aW5nIHN0YXJ0ZWQgb24gWW91VHViZQ==</context>
+ </entry_metadata>
+ <translation_content_hash>8a7a8277286609e76fff067e6a05a3ff</translation_content_hash>
+ <entry_metadata_hash>228cb8c1a74a2341acf9c7d6800e6b1d</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:16131749694889037:2576971549079248293:tr:15206544026279920062:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}YouTube{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Youtube{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}YouTube{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940034099000">
+       <translation_content>{0}{/0} {1}Youtube{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAMCgRNYXBzEgRQbGF5</context>
+ </entry_metadata>
+ <translation_content_hash>eabc2a303af60f36adf7633f3c551a2a</translation_content_hash>
+ <entry_metadata_hash>891dacb0de918ee5befa8bcf7455a835</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:16617071874598726461:16724457494393353399:tr:2574803505556669155:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Google apps</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Google uygulamalar</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Google apps</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940153460000">
+       <translation_content>Google uygulamalar</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAiChNTZWFyY2ggWW91VHViZSBIZWxwEgtHb29nbGUgYXBwcw==</context>
+ </entry_metadata>
+ <translation_content_hash>0b79514b65b39dd6480b051a76d1ffd8</translation_content_hash>
+ <entry_metadata_hash>d2887d45c393d2488ad191e2d80962a4</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:15059782923866519579:2880116232391073816:tr:8602771900343448828:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Wallet{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Wallet{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Wallet{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940080445000">
+       <translation_content>{0}{/0} {1}Wallet{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAATCghTaG9wcGluZxIHRmluYW5jZQ==</context>
+ </entry_metadata>
+ <translation_content_hash>eec2f7a688ca365a6c43f67d4c587d9f</translation_content_hash>
+ <entry_metadata_hash>9f14e96df29ee992a73d981a844488ff</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:5773816818672254957:11497953311646616326:tr:7973714456229042324:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{1}{2}YouTube{/2}{3}{4}{/4}{/3}{/1}{/0}  {5}   {6}Contact Support{/6}  {/5}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{1}{2}Youtube{/2} {3}{4}{/4}{/3}{/1}{/0} {5}{6}Destek Ekibiyle İletişime Geçin{/6}{/5}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{1}{2}YouTube{/2}{3}{4}{/4}{/3}{/1}{/0}  {5}   {6}Contact Support{/6}  {/5}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940186506000">
+       <translation_content>{0}{1}{2}Youtube{/2} {3}{4}{/4}{/3}{/1}{/0} {5}{6}Destek Ekibiyle İletişime Geçin{/6}{/5}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAqCgxZb3VUdWJlIEhlbHASGkdldHRpbmcgc3RhcnRlZCBvbiBZb3VUdWJl</context>
+ </entry_metadata>
+ <translation_content_hash>67940969774f67c733bd53e937ae5925</translation_content_hash>
+ <entry_metadata_hash>041ffc92487b995f9dee3ebbcfee4358</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:6821519409465065354:9953613083389069841:tr:18255125111639925172:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Docs{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Dokümanlar{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Docs{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940087743000">
+       <translation_content>{0}{/0} {1}Dokümanlar{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAQCgdGaW5hbmNlEgVCb29rcw==</context>
+ </entry_metadata>
+ <translation_content_hash>44def45665de215e5dc40289e3865175</translation_content_hash>
+ <entry_metadata_hash>78b2a00d7158b395789213d97c2e938a</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:17694127560720836664:7513328026426679160:tr:1675558112829813682:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}My Account{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Hesabım{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}My Account{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940017971000">
+       <translation_content>{0}{/0} {1}Hesabım{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAIEgZTZWFyY2g=</context>
+ </entry_metadata>
+ <translation_content_hash>9f1ff1ba728cfea149fd54c2885b5fb0</translation_content_hash>
+ <entry_metadata_hash>da98159c16f5c4d699e3ad000b36a0bd</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:16381964783426196687:2918540738740839652:tr:16869220206818980840:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Search{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Arama{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Search{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940027137000">
+       <translation_content>{0}{/0} {1}Arama{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAASCgpNeSBBY2NvdW50EgRNYXBz</context>
+ </entry_metadata>
+ <translation_content_hash>b3a6a1434d19eedacccfded980ddfa5e</translation_content_hash>
+ <entry_metadata_hash>6dde041f985ad7f6346bf932a820558a</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:14430491398108127026:15220336620922170199:tr:157826731137804540:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}News{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Haberler{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}News{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940045541000">
+       <translation_content>{0}{/0} {1}Haberler{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAANCgRQbGF5EgVHbWFpbA==</context>
+ </entry_metadata>
+ <translation_content_hash>1c58b89c037d2d443661a93266933758</translation_content_hash>
+ <entry_metadata_hash>30ea3d6dac2c5b0dcc0dbdfbe7cabf91</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:9429518644586325645:15348185057816256779:tr:9547919841704755595:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Finance{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Finans{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Finance{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940085060000">
+       <translation_content>{0}{/0} {1}Finans{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAOCgZXYWxsZXQSBERvY3M=</context>
+ </entry_metadata>
+ <translation_content_hash>50520426a0d65265af6a45e900ca8438</translation_content_hash>
+ <entry_metadata_hash>d93c2221f1f741163fa643f58a639d2c</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:13356058645930356198:3643866539136239218:tr:2711983185089147542:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Clear search</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Aramayı temizle</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Clear search</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940138366000">
+       <translation_content>Aramayı temizle</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAgCglNYWluIG1lbnUSE1NlYXJjaCBZb3VUdWJlIEhlbHA=</context>
+ </entry_metadata>
+ <translation_content_hash>c4355ceb1be47fc828d120341be0662b</translation_content_hash>
+ <entry_metadata_hash>f223b5a5209ddbd70122646d422516c1</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:5973794636263983368:10823684335556848122:tr:5447901630337166929:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Was this article helpful?</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Bu makale size yardımcı oldu mu?</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Was this article helpful?</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940385386000">
+       <translation_content>Bu makale size yardımcı oldu mu?</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAA4Ch5MZWFybiBtb3JlIGFib3V0IFlvdVR1YmUgS2lkcy4SFkhvdyBjYW4gd2UgaW1wcm92ZSBpdD8=</context>
+ </entry_metadata>
+ <translation_content_hash>db7541511889e146d2b0240d5c344b51</translation_content_hash>
+ <entry_metadata_hash>12625e0b43dcbc6142dc2caa998d9d43</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:15033776856317927938:3554155796445815666:tr:15519600304539896739:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>YouTube Help</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>YouTube Yardım</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>YouTube Help</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940167355000">
+       <translation_content>YouTube Yardım</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAZCglNYWluIG1lbnUSDFlvdVR1YmUgSGVscA==</context>
+ </entry_metadata>
+ <translation_content_hash>eb01051ed192c5f8ab0b379a91790500</translation_content_hash>
+ <entry_metadata_hash>bc4dfca907338e4d5bd2b1105a7a0e16</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:9625495425620288685:16034864878032858860:tr:128716419858797612:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Maps{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Haritalar{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Maps{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940031108000">
+       <translation_content>{0}{/0} {1}Haritalar{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAARCgZTZWFyY2gSB1lvdVR1YmU=</context>
+ </entry_metadata>
+ <translation_content_hash>9174ec2b7a8a53cd308e66c3c53170fd</translation_content_hash>
+ <entry_metadata_hash>a19c96a311da65cd077c013784c6274e</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:13356058645930356198:3643866539136239218:tr:10134247904963548820:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Clear search</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Aramayı temizle</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Clear search</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940138366000">
+       <translation_content>Aramayı temizle</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAWCgZTZWFyY2gSDENsb3NlIHNlYXJjaA==</context>
+ </entry_metadata>
+ <translation_content_hash>c4355ceb1be47fc828d120341be0662b</translation_content_hash>
+ <entry_metadata_hash>416ab11f4f83d7450a9f487c067f926f</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:15264971474186371922:2946408431219726574:tr:5332341202684229184:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>How can we improve it?</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Bu makaleyi nasıl geliştirebiliriz?</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>How can we improve it?</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940393930000">
+       <translation_content>Bu makaleyi nasıl geliştirebiliriz?</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAcChpHZXR0aW5nIHN0YXJ0ZWQgb24gWW91VHViZQ==</context>
+ </entry_metadata>
+ <translation_content_hash>8a7a8277286609e76fff067e6a05a3ff</translation_content_hash>
+ <entry_metadata_hash>b0eca7dc3a56b7747524dc867993da14</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:8638849329616805218:14574670177058604822:tr:8161034175494935719:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Hangouts{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Hangouts{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Hangouts{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940101472000">
+       <translation_content>{0}{/0} {1}Hangouts{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAhCghDb250YWN0cxIVRXZlbiBtb3JlIGZyb20gR29vZ2xl</context>
+ </entry_metadata>
+ <translation_content_hash>bb7df3f1dc5c4ebfb910ee845be7f0cf</translation_content_hash>
+ <entry_metadata_hash>af2d8ad51a25989c2059d3c13c998125</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:5503248647855337967:5671584674793472087:tr:13683036911710305012:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Books{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Kitaplar{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Books{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940091249000">
+       <translation_content>{0}{/0} {1}Kitaplar{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAPCgREb2NzEgdCbG9nZ2Vy</context>
+ </entry_metadata>
+ <translation_content_hash>ab75f27ff6d39558b18c5d479651195b</translation_content_hash>
+ <entry_metadata_hash>a9219cf8b2c8b97262d79ed139db7f2c</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:17663249593132969006:5565942298459410712:tr:1085897759277376508:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Getting started on YouTube</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>YouTube&amp;#39;a Başlarken</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Getting started on YouTube</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940196502000">
+       <translation_content>YouTube&amp;#39;a Başlarken</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAgCgZTZWFyY2gSFkhvdyBjYW4gd2UgaW1wcm92ZSBpdD8=</context>
+ </entry_metadata>
+ <translation_content_hash>9381f3d40941a184876028f536991bea</translation_content_hash>
+ <entry_metadata_hash>c4b91e4175429ae37ad11dae296d1c99</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:16010855300931577337:14738898230889732189:tr:15938887488534337152:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>The official YouTube Kids app is designed for curious little minds.</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Resmi YouTube Çocuk uygulaması meraklı küçük beyinler için tasarlanmıştır.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>The official YouTube Kids app is designed for curious little minds.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940221091000">
+       <translation_content>Resmi YouTube Çocuk uygulaması meraklı küçük beyinler için tasarlanmıştır.</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAB4CgxZb3VUdWJlIEtpZHMSaFRoaXMgZnJlZSBhcHAgaXMgZGVsaWdodGZ1bGx5IHNpbXBsZSBhbmQgcGFja2VkIGZ1bGwgb2YgYWdlLWFwcHJvcHJpYXRlIHZpZGVvcywgY2hhbm5lbHMsIGFuZCBwbGF5bGlzdHMu</context>
+ </entry_metadata>
+ <translation_content_hash>5db3325c73d96cc7211a6b98c74175fb</translation_content_hash>
+ <entry_metadata_hash>922d9358a3d4c03512b63cf0c84f5636</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:2352823364476335103:17838302679144796287:tr:2069847188512945265:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Play{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Oyun{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Play{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940036990000">
+       <translation_content>{0}{/0} {1}Oyun{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAPCgdZb3VUdWJlEgROZXdz</context>
+ </entry_metadata>
+ <translation_content_hash>48320d0e4a2abfc815c4646b0969e71a</translation_content_hash>
+ <entry_metadata_hash>43d665eed773da10eafc5fa8ccc597a0</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:601064607629366009:4396143971696404101:tr:17287230228827274724:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Contacts{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Kişiler{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Contacts{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940098416000">
+       <translation_content>{0}{/0} {1}Kişiler{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAATCgdCbG9nZ2VyEghIYW5nb3V0cw==</context>
+ </entry_metadata>
+ <translation_content_hash>3b0b5f38f0ddfbe850b17f7b35bc365f</translation_content_hash>
+ <entry_metadata_hash>739ab79a35cfcba919027b569d82c583</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:16617071874598726461:16724457494393353399:tr:7160525222526846134:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Google apps</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Google uygulamalar</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Google apps</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940153460000">
+       <translation_content>Google uygulamalar</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAZCgxDbG9zZSBzZWFyY2gSCU1haW4gbWVudQ==</context>
+ </entry_metadata>
+ <translation_content_hash>0b79514b65b39dd6480b051a76d1ffd8</translation_content_hash>
+ <entry_metadata_hash>f1b365a99561c8eb428c1dbcc6e81601</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:18298465494883847291:8359660888243306571:tr:12384739153252895906:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Main menu</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Ana menü</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Main menu</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940159080000">
+       <translation_content>Ana menü</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAaCgpFbmdsaXNo4oCOEgxDbGVhciBzZWFyY2g=</context>
+ </entry_metadata>
+ <translation_content_hash>fed929bb5ccea8df56e0fe3e13434467</translation_content_hash>
+ <entry_metadata_hash>987662d4b4a094e6b000e5cf0c80cc82</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:10209375746383737104:6853170548960328665:tr:5179718805930215590:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Close search</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Aramayı kapat</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Close search</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940147353000">
+       <translation_content>Aramayı kapat</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAbCgxDbGVhciBzZWFyY2gSC0dvb2dsZSBhcHBz</context>
+ </entry_metadata>
+ <translation_content_hash>f24afa8d3494670ae864f83efb8a282c</translation_content_hash>
+ <entry_metadata_hash>ff10678583677ba55c2ec4ebc8f8ec3d</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:16381964783426196687:4580988005648117665:tr:11378523726517503016:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Search</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Arama</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Search</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940120318000">
+       <translation_content>Arama</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAXCgdTaWduIGluEgxDbGVhciBzZWFyY2g=</context>
+ </entry_metadata>
+ <translation_content_hash>237d8e48d683d5f5c5b7369fff9b8a17</translation_content_hash>
+ <entry_metadata_hash>d37412875566c9b79203adbecc328867</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:11356263318556415223:12686273214169876885:tr:7205004097481788816:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Learn more about {0}YouTube Kids{/0}.</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}YouTube Çocuklar{/0} hakkında daha fazla bilgi için tıklayın.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Learn more about {0}YouTube Kids{/0}.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940380239000">
+       <translation_content>{0}YouTube Çocuklar{/0} hakkında daha fazla bilgi için tıklayın.</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACtCo8BWW91VHViZSBLaWRzIGZlYXR1cmVzIHBvcHVsYXIgY2hpbGRyZW7igJlzIHByb2dyYW1taW5nLCBwbHVzIGtpZC1mcmllbmRseSBjb250ZW50IGZyb20gZmlsbW1ha2VycywgdGVhY2hlcnMsIGFuZCBjcmVhdG9ycyBhbGwgYXJvdW5kIHRoZSB3b3JsZC4SGVdhcyB0aGlzIGFydGljbGUgaGVscGZ1bD8=</context>
+ </entry_metadata>
+ <translation_content_hash>2bf925fc10cb8625825ff58527cce893</translation_content_hash>
+ <entry_metadata_hash>ea4ebdbbda84053859f6b2b03868cff6</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:11498654128785865312:5985091191215933735:tr:12200057951017785038:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Gmail{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Gmail{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Gmail{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940049795000">
+       <translation_content>{0}{/0} {1}Gmail{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAANCgROZXdzEgVEcml2ZQ==</context>
+ </entry_metadata>
+ <translation_content_hash>44b3b1711bd2c770c768bdcc2d1bfe94</translation_content_hash>
+ <entry_metadata_hash>fcfab7159bc9ea08bce056a4ac9d278b</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:17663249593132969006:5565942298459410712:tr:10446493934797418490:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Getting started on YouTube</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>YouTube&amp;#39;a Başlarken</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Getting started on YouTube</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940196502000">
+       <translation_content>YouTube&amp;#39;a Başlarken</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAtCh1Zb3VUdWJlICAgICBDb250YWN0IFN1cHBvcnQgIBIMWW91VHViZSBLaWRz</context>
+ </entry_metadata>
+ <translation_content_hash>9381f3d40941a184876028f536991bea</translation_content_hash>
+ <entry_metadata_hash>022a2f91424fe5f39b124f7ed19214bc</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:15493902116095493466:1308724799594602276:tr:1576134291672155363:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Blogger{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Blogger{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Blogger{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940093448000">
+       <translation_content>{0}{/0} {1}Blogger{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAARCgVCb29rcxIIQ29udGFjdHM=</context>
+ </entry_metadata>
+ <translation_content_hash>e53f0887ea474733f0dc879337e68f8f</translation_content_hash>
+ <entry_metadata_hash>398fdfe22cb2cf6e10f796652e105d7d</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:10209375746383737104:6853170548960328665:tr:12996622490451394294:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Close search</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Aramayı kapat</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Close search</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940147353000">
+       <translation_content>Aramayı kapat</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAqChNTZWFyY2ggWW91VHViZSBIZWxwEhNTZWFyY2ggWW91VHViZSBIZWxw</context>
+ </entry_metadata>
+ <translation_content_hash>f24afa8d3494670ae864f83efb8a282c</translation_content_hash>
+ <entry_metadata_hash>a8f50e5864a46c50a5351ae93fcde3e2</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:9548161313107683602:16321818882893431693:tr:10912876682883921749:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Drive{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Drive{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Drive{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940056764000">
+       <translation_content>{0}{/0} {1}Drive{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAARCgVHbWFpbBIIQ2FsZW5kYXI=</context>
+ </entry_metadata>
+ <translation_content_hash>34a86c8eae11102658dd81045a1ddab9</translation_content_hash>
+ <entry_metadata_hash>814c15be90849ae226762b6410216643</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:7005970191979102328:11831155972606383332:tr:15397971903225242934:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Translate{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Çeviri{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Translate{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940065015000">
+       <translation_content>{0}{/0} {1}Çeviri{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAASCghDYWxlbmRhchIGUGhvdG9z</context>
+ </entry_metadata>
+ <translation_content_hash>a43fcbbc13263a0e21f89384aaff0881</translation_content_hash>
+ <entry_metadata_hash>1e77d449f3e3679be6e34534b863d763</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:18118353741903730795:16630425184315015358:tr:3295436946619425447:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>This free app is delightfully simple and packed full of age-appropriate videos, channels, and playlists.</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Bu ücretsiz uygulama son derece sadedir ve yaşa uygun videolar, kanallar ve çalma listeleriyle doludur.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>This free app is delightfully simple and packed full of age-appropriate videos, channels, and playlists.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940248505000">
+       <translation_content>Bu ücretsiz uygulama son derece sadedir ve yaşa uygun videolar, kanallar ve çalma listeleriyle doludur.</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAADXCkNUaGUgb2ZmaWNpYWwgWW91VHViZSBLaWRzIGFwcCBpcyBkZXNpZ25lZCBmb3IgY3VyaW91cyBsaXR0bGUgbWluZHMuEo8BWW91VHViZSBLaWRzIGZlYXR1cmVzIHBvcHVsYXIgY2hpbGRyZW7igJlzIHByb2dyYW1taW5nLCBwbHVzIGtpZC1mcmllbmRseSBjb250ZW50IGZyb20gZmlsbW1ha2VycywgdGVhY2hlcnMsIGFuZCBjcmVhdG9ycyBhbGwgYXJvdW5kIHRoZSB3b3JsZC4=</context>
+ </entry_metadata>
+ <translation_content_hash>6fbf26d85fbbc9e6645a03eaffe6355f</translation_content_hash>
+ <entry_metadata_hash>f38996ccf9cf3cd616fe4abe5b506951</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:17663249593132969006:5565942298459410712:tr:13433992222645654770:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Getting started on YouTube</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>YouTube&amp;#39;a Başlarken</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Getting started on YouTube</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940196502000">
+       <translation_content>YouTube&amp;#39;a Başlarken</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAA2ChZIb3cgY2FuIHdlIGltcHJvdmUgaXQ/EhxGaW5kIHlvdXIgd2F5IGFyb3VuZCBZb3VUdWJl</context>
+ </entry_metadata>
+ <translation_content_hash>9381f3d40941a184876028f536991bea</translation_content_hash>
+ <entry_metadata_hash>aaf698fc4e3e3a0c3664c2fb658445be</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:15033776856317927938:3554155796445815666:tr:12703641269508082452:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>YouTube Help</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>YouTube Yardım</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>YouTube Help</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940167355000">
+       <translation_content>YouTube Yardım</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAtCgxZb3VUdWJlIEhlbHASHVlvdVR1YmUgICAgIENvbnRhY3QgU3VwcG9ydCAg</context>
+ </entry_metadata>
+ <translation_content_hash>eb01051ed192c5f8ab0b379a91790500</translation_content_hash>
+ <entry_metadata_hash>62b39f092fe44898d6b5b1de9b968b13</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:18298465494883847291:8359660888243306571:tr:12576175082954164575:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Main menu</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Ana menü</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Main menu</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940159080000">
+       <translation_content>Ana menü</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAbCgtHb29nbGUgYXBwcxIMWW91VHViZSBIZWxw</context>
+ </entry_metadata>
+ <translation_content_hash>fed929bb5ccea8df56e0fe3e13434467</translation_content_hash>
+ <entry_metadata_hash>33f303a24ae8bb73e62207d732a630c2</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:3512180719745660914:6394526985227619460:tr:13191933807927963417:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Calendar{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Takvim{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Calendar{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940059558000">
+       <translation_content>{0}{/0} {1}Takvim{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAASCgVEcml2ZRIJVHJhbnNsYXRl</context>
+ </entry_metadata>
+ <translation_content_hash>94fb28e078b68be7bc9d3cafdc180688</translation_content_hash>
+ <entry_metadata_hash>994ec99186bc8bdb5d12f601ae65e1a4</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:1066691363204801666:631784130533430273:tr:14619612798976541964:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>YouTube Kids features popular children’s programming, plus kid-friendly content from filmmakers, teachers, and creators all around the world.</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>YouTube Çocuk&amp;#39;ta dünyanın her yerinden film yapımcılarının, öğretmenlerin ve video üreticilerin hazırladığı popüler çocuk programları ve içerikler bulabilirsiniz.</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>YouTube Kids features popular children’s programming, plus kid-friendly content from filmmakers, teachers, and creators all around the world.</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940359478000">
+       <translation_content>YouTube Çocuk&amp;#39;ta dünyanın her yerinden film yapımcılarının, öğretmenlerin ve video üreticilerin hazırladığı popüler çocuk programları ve içerikler bulabilirsiniz.</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAACKCmhUaGlzIGZyZWUgYXBwIGlzIGRlbGlnaHRmdWxseSBzaW1wbGUgYW5kIHBhY2tlZCBmdWxsIG9mIGFnZS1hcHByb3ByaWF0ZSB2aWRlb3MsIGNoYW5uZWxzLCBhbmQgcGxheWxpc3RzLhIeTGVhcm4gbW9yZSBhYm91dCBZb3VUdWJlIEtpZHMu</context>
+ </entry_metadata>
+ <translation_content_hash>4ebe62fb03140a161610247ee85a1312</translation_content_hash>
+ <entry_metadata_hash>fa159b368483881b98c64807fd01656c</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:14416001968828770139:17416796953422757047:tr:16593254847803901917:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>{0}{/0}{1}Photos{/1}</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>{0}{/0} {1}Fotoğraflar{/1}</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>{0}{/0}{1}Photos{/1}</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940068450000">
+       <translation_content>{0}{/0} {1}Fotoğraflar{/1}</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAARCglUcmFuc2xhdGUSBE1vcmU=</context>
+ </entry_metadata>
+ <translation_content_hash>a00f45b3f9fbe2b0892d357d4a5d3c12</translation_content_hash>
+ <entry_metadata_hash>cd3d0059c9a8801055743961cc683a2c</entry_metadata_hash>
+</tu>
+<tu tuid="T:en:tr:false:16617071874598726461:16724457494393353399:tr:18345693633923121731:en:;translation:REVIEWED:8af45c172482f07c:" creationtool="TMM" creationtoolversion="1.0" srclang="en">
+ <tuv xml:lang="en">
+   <seg>Google apps</seg>
+ </tuv>
+ <tuv xml:lang="tr">
+   <seg>Google uygulamalar</seg>
+ </tuv>
+ <entry_metadata>
+   <tm_entry>
+     <source_info>
+       <source>Google apps</source>
+       <source_lang>en</source_lang>
+     </source_info>
+     <translation_info status="REVIEWED">
+       <target_lang>tr</target_lang>
+       <tm_id>8af45c172482f07c</tm_id>
+     </translation_info>
+     <translation translator_id="421057551093" translation_timestamp="1487940153460000">
+       <translation_content>Google uygulamalar</translation_content>
+     </translation>
+   </tm_entry>
+   <context>rO0ABXVyAAJbQqzzF/gGCFTgAgAAeHAAAAAfCgtHb29nbGUgYXBwcxIQTW9yZSBHb29nbGUgYXBwcw==</context>
+ </entry_metadata>
+ <translation_content_hash>0b79514b65b39dd6480b051a76d1ffd8</translation_content_hash>
+ <entry_metadata_hash>cf150ca058410db69b21991172beffd1</entry_metadata_hash>
+</tu>
+</body>
+</tmx>
